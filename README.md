@@ -26,3 +26,7 @@ Bite-size FRP resources.
 ### Exercises
 
 - 
+
+### Reading
+
+- [http://blog.andrewray.me/reactjs-for-stupid-people/](http://blog.andrewray.me/reactjs-for-stupid-people/)
